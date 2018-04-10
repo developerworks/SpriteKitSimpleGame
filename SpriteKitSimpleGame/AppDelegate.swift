@@ -6,6 +6,8 @@
 //  Copyright © 2018年 Totorotec. All rights reserved.
 //
 
+// https://www.raywenderlich.com/145318/spritekit-swift-3-tutorial-beginners
+
 import UIKit
 
 @UIApplicationMain
